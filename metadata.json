@@ -1,0 +1,6 @@
+{
+  "name": "Apex Windoors - Digital Handover System",
+  "description": "Professional digital handover certificates, quality inspection checklists, and client sign-off verification for uPVC and architectural windows and doors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
